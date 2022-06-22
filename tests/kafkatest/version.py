@@ -115,7 +115,7 @@ def get_version(node=None):
         return DEV_BRANCH
 
 DEV_BRANCH = KafkaVersion("dev")
-DEV_VERSION = KafkaVersion("2.8.2-SNAPSHOT")
+DEV_VERSION = KafkaVersion("2.8.2-TDP-0.1.0-SNAPSHOT")
 
 # 0.8.2.x versions
 V_0_8_2_1 = KafkaVersion("0.8.2.1")
