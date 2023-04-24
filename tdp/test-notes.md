@@ -7,7 +7,7 @@
 
 ## Code changes
 
-1. Kafka version: `2.8.2-SNAPSHOT` → `2.8.2-TDP-0.1.0-SNAPSHOT`
+1. Kafka version: `2.8.2-SNAPSHOT` → `2.8.2-0.0-SNAPSHOT`
 
 ## Test Command
 

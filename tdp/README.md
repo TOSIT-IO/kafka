@@ -1,6 +1,6 @@
 # TDP Kafka Notes
 
-The version `2.8.2-TDP-0.1.0-SNAPSHOT` of Apache Livy is based on the branch [`2.8`](https://github.com/TOSIT-IO/kafka/tree/2.8).
+The version `2.8.2-0.0-SNAPSHOT` of Apache Livy is based on the branch [`2.8`](https://github.com/TOSIT-IO/kafka/tree/2.8).
 
 ## Making a release
 
@@ -9,7 +9,7 @@ cd kafka
 ./gradlew clean releaseTarGz
 ```
 
-The command generates a `.tar.gz` file of the release at `./core/build/distributions/kafka_2.13-2.8.2-TDP-0.1.0-SNAPSHOT.tgz`.
+The command generates a `.tar.gz` file of the release at `./core/build/distributions/kafka_2.13-2.8.2-0.0-SNAPSHOT.tgz`.
 
 ## Testing
 
